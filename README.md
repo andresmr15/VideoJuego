@@ -1,2 +1,0 @@
-# VideoJuego
-Clase POO
