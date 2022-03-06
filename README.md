@@ -1,2 +1,2 @@
 # VideoJuego
-Calse POO
+Clase POO
